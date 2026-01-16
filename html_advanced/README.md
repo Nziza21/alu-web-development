@@ -14,4 +14,4 @@ This is a simple project meant to help build the strong knowledge in the web dev
 
 ### Preview of the platform 
 
-<img src="[WhatsApp Image 2025-07-13 at 22.06.01.jpeg](https://github.com/Nziza21/alu-web-development/blob/main/html_advanced/images/WhatsApp%20Image%202025-07-13%20at%2022.06.01.jpeg)" width="80%" height="auto">
+<img src="images/WhatsApp Image 2025-07-13 at 22.06.01.jpeg" width="80%" height="auto">
