@@ -14,4 +14,4 @@ This is a simple project meant to help build the strong knowledge in the web dev
 
 ### Preview of the platform 
 
-<img src="./images/school.png" width="80%" height="auto">
+<img src="WhatsApp Image 2025-07-13 at 22.06.01.jpeg" width="80%" height="auto">
